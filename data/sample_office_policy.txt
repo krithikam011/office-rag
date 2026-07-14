@@ -1,0 +1,34 @@
+ACME CORP — EMPLOYEE HANDBOOK (SAMPLE)
+
+1. LEAVE POLICY
+Employees are entitled to 18 days of paid leave per calendar year, accrued
+monthly at 1.5 days/month. Unused leave up to 10 days can be carried
+forward to the next year. Leave requests must be submitted at least 3
+working days in advance via the HR portal, except in emergencies.
+
+2. WORK FROM HOME POLICY
+Employees may work from home up to 2 days per week with prior manager
+approval. Full remote work requires director-level sign-off and is
+evaluated on a case-by-case basis.
+
+3. REIMBURSEMENT POLICY
+Travel, internet, and client-meeting expenses are reimbursable up to
+Rs. 5,000/month with valid receipts. Reimbursement claims must be filed
+within 30 days of the expense through the finance portal.
+
+4. PROBATION POLICY
+New employees are on probation for the first 6 months. Confirmation is
+based on performance review by the reporting manager. During probation,
+the notice period for resignation is 15 days; after confirmation, it
+increases to 60 days.
+
+5. CODE OF CONDUCT
+Employees are expected to maintain professionalism in all communications.
+Harassment of any kind is strictly prohibited and can be reported
+confidentially to HR or through the anonymous ethics hotline.
+
+6. IT AND SECURITY POLICY
+Company laptops must have disk encryption enabled at all times. Personal
+devices used for work (BYOD) must be registered with IT and have MDM
+(Mobile Device Management) software installed. Passwords must be changed
+every 90 days.
